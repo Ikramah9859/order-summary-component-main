@@ -55,6 +55,7 @@ h1.order{
 }
 .payment:hover{
     background-color: hsla(245, 75%, 52%, 0.76);
+    cursor: pointer;
 }
 div .payment{
     width: 350px;
@@ -101,7 +102,7 @@ div .payment{
 }
 #change:hover{
     color:hsla(245, 75%, 52%, 0.658);
-           
+    cursor: pointer;     
 }
 .songs{
     width: 230px;
@@ -122,4 +123,5 @@ div .payment{
 }
 .grey:hover{
     color: black;
+     cursor: pointer;
 }
